@@ -1,0 +1,4 @@
+1)install python 3.4
+2)install numpy package
+3)install gzip package
+Thats it!
